@@ -109,9 +109,9 @@ source install/setup.bash
 
 ros2 launch nmpc_tracker nmpc_launch.py
 ```
-Running the Simulation
 
-Launch the simulator, controller, and RViz:
+
+4. Launch the simulator, controller, and RViz:
 
 ```
 ros2 launch nmpc_tracker nmpc_launch.py
