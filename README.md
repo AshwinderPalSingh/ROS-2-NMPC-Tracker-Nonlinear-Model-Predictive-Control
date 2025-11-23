@@ -116,7 +116,7 @@ ros2 launch nmpc_tracker nmpc_launch.py
 ```
 ros2 launch nmpc_tracker nmpc_launch.py
 ```
-Visualization
+5. Visualization
 
 The system publishes real-time visualizations in RViz:
 
@@ -126,7 +126,7 @@ Red arrows / odometry: Actual robot path.
 
 Coordinate Frame: Real-time robot pose.
 
-License
+6. License
 
 The MIT License (MIT)
 Copyright (c) 2024 [Your Name]
